@@ -69,6 +69,7 @@ def main():
 
             elif inp.split()[0] == "huntTarget" and inp.split()[1] == "True" and GotUser == True:
                 huntTarget = True 
+                huntAll = False 
                 target_inp = inp.split()[2]
                 print(f"[*] Hunt Target => True | Media: {target_inp}")
             
