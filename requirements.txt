@@ -1,0 +1,5 @@
+requests
+colorama 
+json
+prettytable 
+subproccess 
