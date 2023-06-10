@@ -39,3 +39,5 @@ INSIGHTHUNTER > run
 INSIGHTHUNTER > huntTarget True https://instagram.com/hacker 
 INSIGHTHUNTER > run
 ```
+## All available media platforms
+
