@@ -42,4 +42,4 @@ INSIGHTHUNTER > run
 ```
 ## All available media platforms
 
-![Media Page]()
+[Media Page](https://github.com/SpaceShuttleIO/InsightHunter/blob/main/src/Media/media.txt)
