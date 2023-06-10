@@ -12,6 +12,7 @@
 git clone https://github.com/SpaceShuttleIO/InsightHunter 
 cd InsightHunter 
 pip install -r requirements.txt
+cd src 
 chmod +x main.py 
 ./main.py 
 ``` 
@@ -41,3 +42,4 @@ INSIGHTHUNTER > run
 ```
 ## All available media platforms
 
+![Media Page]()
